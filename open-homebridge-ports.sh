@@ -23,7 +23,6 @@ done
 
 /usr/bin/echo -e '\t</service>' >> $pathname/$filename
 
-
 #
 # Set the default SELinux security context on the file and set proper file mode.
 
