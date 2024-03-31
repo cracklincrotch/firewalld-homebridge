@@ -1,5 +1,5 @@
 # firewalld-homebridge
-Adds the homebridge service to FirewallD
+Adds the homebridge service to FirewallD.
 
 This bash script allows you to run HomeBridge with FirewallD and not have to manage opening TCP ports manually.
 
